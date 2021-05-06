@@ -1,0 +1,68 @@
+.newpost-form {
+  background-color: #FFF;
+  padding: 1em 0.5em;
+  border: 1px solid #DBDBDB;
+  margin-bottom: 1em;
+
+  &::after {
+    content: '';
+    display: inline-table;
+    clear: both;
+  }
+
+  & .required {
+    color: #CC0000;
+  }
+
+  &__title {
+    text-align: center;
+    margin: 0 0 1em;
+  }
+
+  &__input-group {
+    margin-bottom: 1em;
+  }
+
+  &__label {
+    display: inline-block;
+    font-size: 0.9em;
+    margin-bottom: 0.2em;
+  }
+
+  &__textarea {
+    width: 100%;
+    height: 100px;
+    resize: none;
+    border: 1px solid rgba(0, 0, 0, 0.4);
+    border-radius: 5px;
+    padding: 0.3em 0.5em;
+  }
+
+  &__file-upload {
+    margin-left: 1em;
+  }
+
+  &__error {
+    font-size: 0.9em;
+    display: block;
+    color: #CC0000;
+  }
+
+  &__submit {
+    color: #FFF;
+    background-color: #4285F4;
+    border: 1px solid transparent;
+    transition: .3s;
+    cursor: pointer;
+    padding: 0.3em 1em;
+    border-radius: 3px;
+    font-size: 0.95em;
+    float: right;
+
+    &:hover {
+      color: #4285F4;
+      background-color: transparent;
+      border: 1px solid #4285F4;
+    }
+  }
+}

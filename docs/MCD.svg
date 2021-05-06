@@ -1,0 +1,98 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg width="310" height="204" view_box="0 0 310 204"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:link="http://www.w3.org/1999/xlink">\n\n<desc>Généré par Mocodo 2.3.7 le Sat, 08 Aug 2020 06:36:17</desc>
+
+<rect id="frame" x="0" y="0" width="310" height="204" fill="#f7f7f7" stroke="none" stroke-width="0"/>
+
+<!-- Association REPLY -->
+<line x1="162" y1="60" x2="44" y2="60" stroke="#d6604d" stroke-width="2"/>
+<text x="99" y="77.0" fill="#2166ac" font-family="Verdana" font-size="12">0,N</text>
+<path d="M 70.0 60.0 L 82.0 54.0 L 78.0 60.0 L 82.0 66.0 Z" fill="#d6604d" stroke-width="0"/>
+<line x1="44" y1="161" x2="44" y2="60" stroke="#d6604d" stroke-width="2"/>
+<text x="49.0" y="128" fill="#2166ac" font-family="Verdana" font-size="12">1,1</text>
+<path d="M 44.0 136.0 L 38.0 124.0 L 44.0 128.0 L 50.0 124.0 Z" fill="#d6604d" stroke-width="0"/>
+<g id="association-REPLY">
+	<path d="M 56 35 a 14 14 90 0 1 14 14 V 60 h -52 V 49 a 14 14 90 0 1 14 -14" fill="#f4a582" stroke="#f4a582" stroke-width="0"/>
+	<path d="M 70 60.0 v 11 a 14 14 90 0 1 -14 14 H 32 a 14 14 90 0 1 -14 -14 V 60.0 H 52" fill="#fddbc7" stroke="#fddbc7" stroke-width="0"/>
+	<rect x="18" y="35" width="52" height="50" fill="none" rx="14" stroke="#d6604d" stroke-width="2"/>
+	<line x1="18" y1="60" x2="70" y2="60" stroke="#d6604d" stroke-width="1"/>
+	<text x="25" y="52.7" fill="#000000" font-family="Verdana" font-size="12">REPLY</text>
+</g>
+
+<!-- Association ATTACHED TO -->
+<line x1="44" y1="161" x2="162" y2="161" stroke="#d6604d" stroke-width="2"/>
+<text x="84" y="178.0" fill="#2166ac" font-family="Verdana" font-size="12">1,1</text>
+<path d="M 111.0 161.0 L 99.0 167.0 L 103.0 161.0 L 99.0 155.0 Z" fill="#d6604d" stroke-width="0"/>
+<line x1="273" y1="161" x2="162" y2="161" stroke="#d6604d" stroke-width="2"/>
+<text x="218" y="178.0" fill="#2166ac" font-family="Verdana" font-size="12">0,N</text>
+<path d="M 245.0 161.0 L 233.0 167.0 L 237.0 161.0 L 233.0 155.0 Z" fill="#d6604d" stroke-width="0"/>
+<g id="association-ATTACHED TO">
+	<path d="M 199 136 a 14 14 90 0 1 14 14 V 161 h -102 V 150 a 14 14 90 0 1 14 -14" fill="#f4a582" stroke="#f4a582" stroke-width="0"/>
+	<path d="M 213 161.0 v 11 a 14 14 90 0 1 -14 14 H 125 a 14 14 90 0 1 -14 -14 V 161.0 H 102" fill="#fddbc7" stroke="#fddbc7" stroke-width="0"/>
+	<rect x="111" y="136" width="102" height="50" fill="none" rx="14" stroke="#d6604d" stroke-width="2"/>
+	<line x1="111" y1="161" x2="213" y2="161" stroke="#d6604d" stroke-width="1"/>
+	<text x="118" y="153.7" fill="#000000" font-family="Verdana" font-size="12">ATTACHED TO</text>
+</g>
+
+<!-- Association SEND -->
+<line x1="162" y1="60" x2="273" y2="60" stroke="#d6604d" stroke-width="2"/>
+<text x="203" y="77.0" fill="#2166ac" font-family="Verdana" font-size="12">0,N</text>
+<path d="M 248.0 60.0 L 236.0 66.0 L 240.0 60.0 L 236.0 54.0 Z" fill="#d6604d" stroke-width="0"/>
+<line x1="273" y1="161" x2="273" y2="60" stroke="#d6604d" stroke-width="2"/>
+<text x="278.0" y="119" fill="#2166ac" font-family="Verdana" font-size="12">1,1</text>
+<path d="M 273.0 127.0 L 267.0 115.0 L 273.0 119.0 L 279.0 115.0 Z" fill="#d6604d" stroke-width="0"/>
+<g id="association-SEND">
+	<path d="M 284 35 a 14 14 90 0 1 14 14 V 60 h -50 V 49 a 14 14 90 0 1 14 -14" fill="#f4a582" stroke="#f4a582" stroke-width="0"/>
+	<path d="M 298 60.0 v 11 a 14 14 90 0 1 -14 14 H 262 a 14 14 90 0 1 -14 -14 V 60.0 H 50" fill="#fddbc7" stroke="#fddbc7" stroke-width="0"/>
+	<rect x="248" y="35" width="50" height="50" fill="none" rx="14" stroke="#d6604d" stroke-width="2"/>
+	<line x1="248" y1="60" x2="298" y2="60" stroke="#d6604d" stroke-width="1"/>
+	<text x="255" y="52.7" fill="#000000" font-family="Verdana" font-size="12">SEND</text>
+</g>
+
+<!-- Entity Comment -->
+<g id="entity-Comment">
+	<g id="frame-Comment">
+		<rect x="9" y="136" width="70" height="25" fill="#92c5de" stroke="#92c5de" stroke-width="0"/>
+		<rect x="9" y="161.0" width="70" height="25" fill="#d1e5f0" stroke="#d1e5f0" stroke-width="0"/>
+		<rect x="9" y="136" width="70" height="50" fill="none" stroke="#4393c3" stroke-width="2"/>
+		<line x1="9" y1="161" x2="79" y2="161" stroke="#4393c3" stroke-width="1"/>
+	</g>
+	<text x="14" y="153.7" fill="#000000" font-family="Verdana" font-size="12">Comment</text>
+	<text x="14" y="178.8" fill="#000000" font-family="Verdana" font-size="12">message</text>
+	<line x1="14" y1="181" x2="68" y2="181" stroke="#000000" stroke-width="1"/>
+</g>
+
+<!-- Entity Post -->
+<g id="entity-Post">
+	<g id="frame-Post">
+		<rect x="245" y="127" width="56" height="25" fill="#92c5de" stroke="#92c5de" stroke-width="0"/>
+		<rect x="245" y="152.0" width="56" height="43" fill="#d1e5f0" stroke="#d1e5f0" stroke-width="0"/>
+		<rect x="245" y="127" width="56" height="68" fill="none" stroke="#4393c3" stroke-width="2"/>
+		<line x1="245" y1="152" x2="301" y2="152" stroke="#4393c3" stroke-width="1"/>
+	</g>
+	<text x="260" y="144.7" fill="#000000" font-family="Verdana" font-size="12">Post</text>
+	<text x="250" y="169.8" fill="#000000" font-family="Verdana" font-size="12">content</text>
+	<line x1="250" y1="172" x2="296" y2="172" stroke="#000000" stroke-width="1"/>
+	<text x="250" y="186.8" fill="#000000" font-family="Verdana" font-size="12">image</text>
+</g>
+
+<!-- Entity User -->
+<g id="entity-User">
+	<g id="frame-User">
+		<rect x="126" y="9" width="72" height="25" fill="#92c5de" stroke="#92c5de" stroke-width="0"/>
+		<rect x="126" y="34.0" width="72" height="77" fill="#d1e5f0" stroke="#d1e5f0" stroke-width="0"/>
+		<rect x="126" y="9" width="72" height="102" fill="none" stroke="#4393c3" stroke-width="2"/>
+		<line x1="126" y1="34" x2="198" y2="34" stroke="#4393c3" stroke-width="1"/>
+	</g>
+	<text x="148" y="26.7" fill="#000000" font-family="Verdana" font-size="12">User</text>
+	<text x="131" y="51.7" fill="#000000" font-family="Verdana" font-size="12">email</text>
+	<line x1="131" y1="54" x2="165" y2="54" stroke="#000000" stroke-width="1"/>
+	<text x="131" y="68.8" fill="#000000" font-family="Verdana" font-size="12">username</text>
+	<text x="131" y="85.8" fill="#000000" font-family="Verdana" font-size="12">password</text>
+	<text x="131" y="102.8" fill="#000000" font-family="Verdana" font-size="12">roles</text>
+</g>
+</svg>
